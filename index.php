@@ -27,7 +27,12 @@ $js_source2 = "";
 		<p>Welcome to GGS-Network</p>
 	</header>
     <div>
+		<div>
 		The beta <a href="https://assets.ggs-network.de/download.php?path=setup.exe">client</a> is avaible!
+		</div>
+		<div>
+		<a href="https://assets.ggs-network.de/download.php?path=client.zip">client.zip</a> (update not incl.)
+		</div>
 	</div>
 
 	<!-- footer -->
