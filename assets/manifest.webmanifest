@@ -1,0 +1,24 @@
+{
+    "name": "GGS-Network by GoodGameServices Inc.",
+    "short_name": "Video Call",
+    "start_url": "https://video.ggs-network.de",
+    "scope": "https://video.ggs-network.de",
+    "display": "standalone",
+    "background_color" : "#fff" ,
+    "description": "Eine einfache App von GGS-Network",
+    "icons": [{
+      "src": "https://ggs-network.de/assets/image/projects/transparent_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }, {
+      "src": "https://ggs-network.de/assets/image/projects/transparent_1024x1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }],
+    "related_applications": [{
+      "platform": "Web"
+    }, {
+      "platform": "github",
+      "url": "https://github.com/Good-Game-Services"
+    }]
+  }
