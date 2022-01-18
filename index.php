@@ -28,10 +28,13 @@ $js_source2 = "";
 	</header>
     <div>
 		<div>
-		The beta <a href="https://assets.ggs-network.de/download.php?path=setup.exe">client</a> is avaible!
+			The beta <a href="https://assets.ggs-network.de/download.php?path=setup.exe">client</a> is avaible!
 		</div>
 		<div>
-		<a href="https://assets.ggs-network.de/download.php?path=client.zip">client.zip</a> (update not incl.)
+			<a href="https://assets.ggs-network.de/download.php?path=client.zip">client.zip</a> (update not incl.)
+		</div>
+		<div>
+			See <a href="https://ggs-network.de/admin">GGS-Network DNS TRAFFIC</a>
 		</div>
 	</div>
 
