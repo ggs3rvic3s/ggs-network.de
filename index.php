@@ -28,10 +28,10 @@ $js_source2 = "";
 	</header>
     <div>
 		<div>
-			The beta <a href="https://assets.ggs-network.de/download.php?path=setup.exe">client</a> is avaible!
+			The Client is a VPN Client made by GGS-Network Developers. The client works with the OpenVPN Protocol. (THE CLIENT IS IN BETA. THE FULL VERSION RELEASE ON 01.04.2022)
 		</div>
 		<div>
-			<a href="https://assets.ggs-network.de/download.php?path=client.zip">client.zip</a> (update not incl.)
+			<a href="https://github.com/Good-Game-Services/vpn-client/releases">Download</a>
 		</div>
 		<div>
 			See <a href="https://ggs-network.de/admin">GGS-Network DNS TRAFFIC</a>
