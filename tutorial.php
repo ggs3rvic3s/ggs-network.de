@@ -3,7 +3,7 @@ require_once "assets/php/downloads.php";
 require_once "assets/php/index.php";
 
 // Set Title of this Page
-$title = "Home";
+$title = "Tutorial";
 
 // Set CSS
 $css_source = "assets/css/main.css";
@@ -24,18 +24,12 @@ $js_source2 = "";
     <!-- Header -->
     <header id="header">
 		<h1>GGS-Network</h1>
-		<p>Welcome to GGS-Network</p>
+		<p>Tutorial</p>
 	</header>
     <div>
-		<div>
-			The Client is a VPN Client made by GGS-Network Developers. The client works with the OpenVPN Protocol. (THE CLIENT IS IN BETA. THE FULL VERSION RELEASE ON 01.04.2022)
-		</div>
-		<div>
-			<a href="https://github.com/Good-Game-Services/vpn-client/releases">Download</a> --- <a href="tutorial.php">Tutorial</a>
-		</div>
-		<div>
-			See <a href="https://ggs-network.de/admin">GGS-Network DNS TRAFFIC</a>
-		</div>
+        <video src="https://assets.ggs-network.de/tutorial.mp4" controls>
+            Your browser does not support the video tag.
+        </video>
 	</div>
 
 	<!-- footer -->
